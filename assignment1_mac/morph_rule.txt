@@ -1,5 +1,0 @@
-나/NP+는/JX 어제/MA 밥/NN+을/JK 먹/VV+었/E+다/E+./SF
-스르륵/MA 눈/NN+이/JK 감기/VV+는/E 날씨/NNG
-어머니/NN+는/JX 할머니/NN 댁/NN+에/JK 김장/NN+을/JK 하/VV+러/E 가/VV+셨/E+습니다/E+./SF
-아기/NN+의/JK 냄새/NN+가/JK 나/VV+는/E 이불/NN+을/JK 덮/VV+고/E 잠/NN+이/JK 듭니다/VV+./SF
-여름/NN 감기/NN+는/JX 열/NN+이/JK 많이/MA 나/VV+거나/E 배탈/NN+,/SP 설사/NN+,/SP 구토/NNG 등/NN 소화기/NN 증상/NN+을/JK 동반하/VV+는/E 경우/NN+가/JK 많/VA+다/E+./SF
