@@ -6,7 +6,6 @@ def isline(line):
     if "." not in line: return False
     return True
 
-# FIXME: when input is 1 query
 def get_sentences(path):
     sent_eojeol = []
     sent_pos = []
