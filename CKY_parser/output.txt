@@ -1,0 +1,118 @@
+det -> the
+DT -> det
+n -> man
+NP -> n
+v -> man
+VP -> v
+v -> saw
+VP -> v
+n -> saw
+NP -> n
+det -> the
+DT -> det
+n -> boy
+NP -> n
+v -> boy
+VP -> v
+p -> with
+P -> p
+det -> the
+DT -> det
+n -> telescope
+NP -> n
+NP -> DT NP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+NP -> DT NP
+S -> NP VP
+NP -> NP VP
+NP -> DT NP
+VP -> VP NP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+NP -> DT NP
+S -> NP VP
+NP -> NP VP
+NP -> DT NP
+PP -> P NP
+NP -> NP PP
+VP -> VP PP
+NP -> DT NP
+NP -> NP PP
+VP -> VP NP
+VP -> VP NP
+VP -> VP PP
+S -> NP VP
+NP -> NP VP
+S -> NP VP
+NP -> NP VP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+VP -> VP NP
+NP -> NP PP
+VP -> VP PP
+NP -> DT NP
+NP -> DT NP
+NP -> DT NP
+NP -> DT NP
+S -> NP VP
+NP -> NP VP
+S -> NP VP
+NP -> NP VP
+S -> NP VP
+NP -> NP VP
+NP -> NP PP
+NP -> NP PP
+
+(S (NP (DT the)(NP man))(VP (VP saw)(NP (DT the)(NP (NP boy)(PP (P with)(NP (DT the)(NP telescope)))))))
+
+(S (NP (DT the)(NP man))(VP (VP saw)(NP (NP (DT the)(NP boy))(PP (P with)(NP (DT the)(NP telescope))))))
+
+(S (NP (DT the)(NP man))(VP (VP (VP saw)(NP (DT the)(NP boy)))(PP (P with)(NP (DT the)(NP telescope)))))
+n -> time
+NP -> n
+v -> time
+VP -> v
+n -> flies
+NP -> n
+v -> flies
+VP -> v
+p -> like
+P -> p
+v -> like
+VP -> v
+det -> an
+DT -> det
+n -> arrow
+NP -> n
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+S -> NP VP
+NP -> NP VP
+NP -> DT NP
+PP -> P NP
+VP -> VP NP
+NP -> NP PP
+VP -> VP PP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+S -> NP VP
+NP -> NP VP
+VP -> VP NP
+NP -> NP PP
+S -> NP VP
+NP -> NP VP
+VP -> VP PP
+VP -> VP NP
+
+(S (NP time)(VP (VP flies)(PP (P like)(NP (DT an)(NP arrow)))))
+
+(S (NP (NP time)(VP flies))(VP (VP like)(NP (DT an)(NP arrow))))

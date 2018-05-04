@@ -1,0 +1,837 @@
+/1-1/B
+4e	d	a	L
+i	d	a	L
+L	g	e	L
+L	k	e	L
+L	g	ye	L
+S	g	ye	L
+a	m	u	L
+4e	m	u	L
+i	m	u	L
+/1-1/L
+X	a	X 
+X	e	X
+X	_	X
+/1-2/B
+X	d	a	L
+X	g	e	L
+X	g	ye	L
+X	n	u	L
+X	m	u	L
+X	b	u	L
+X	d	_	L
+X	g	i	L
+X	s	i	L
+/1-2/L
+X	a	X 
+X	e	X
+X	_	X
+/2-1/B
+u	S	n	a
+X	wi	f	a
+X	wu	m	a
+X	e	m	a
+g	a	m	a
+a	m	r	a
+_	m	r	a
+X	i	r	a
+a	C	X	a
+r	i	X	a
+d	9	X	a
+d	i	j	a
+i	S	n	e
+n	a	m	e
+u	N	m	e
+o	N	s	e
+u	N	s	e
+a	J	s	e
+X	wu	s	e
+g	a	m	ye
+k	o	g	o
+u	*	g	u
+i	*	g	u
+g	9	g	u
+q	e	d	u
+s	e	d	u
+b	4e	f	u
+b	i	f	u
+r	i	f	u
+s	e	t	u
+o	*	g	_
+u	*	g	_
+e	m	n	_
+g	a	n	_
+r	4e	f	_
+j	i	f	_
+g	_	X	_
+e	*	k	_
+n	a	n	i
+g	e	n	i
+n	o	n	i
+d	o	n	i
+b	u	n	i
+u	M	n	i
+o	N	b	i
+e	J	b	i
+u	B	X	i
+u	S	X	i
+o	C	X	i
+g	e	j	i
+/2-1/L
+N	X	X
+n	a	X
+n	ya	X
+n	9	X
+n	o	X
+n	_	X
+n	i	X
+l	i	X
+B	n	i
+B	s	i
+s	9	X
+s	ye	X
+s	o	X
+s	yo	X
+s	i	X
+X	o	X
+/2-2/B
+X	X	g	w8
+X	X	g	wa
+/2-2/L
+N	X	X
+n	a	X
+n	ya	X
+n	9	X
+n	o	X
+n	_	X
+n	i	X
+l	i	X
+B	n	i
+B	s	i
+s	9	X
+s	ye	X
+s	o	X
+s	yo	X
+s	i	X
+X	o	X
+/2-3/B
+X	X	n	a
+X	X	m	a
+X	X	r	a
+X	X	X	a
+X	X	j	a
+X	X	n	e
+X	X	d	e
+X	X	m	e
+X	X	s	e
+X	X	v	e
+X	X	X	e
+X	X	j	e
+X	X	t	e
+X	X	h	e
+X	X	X	ye
+X	X	g	o
+X	X	q	o
+X	X	s	o
+X	X	v	o
+X	X	j	o
+X	X	g	u
+X	X	g	_
+X	X	n	_
+X	X	g	i
+X	X	b	i
+X	X	X	i
+X	X	j	i
+X	X	g	a
+X	X	q	a
+X	X	d	a
+X	X	s	a
+X	X	p	a
+X	X	g	e
+X	X	f	e
+X	X	b	e
+X	X	n	o	
+X	X	d	o
+X	X	m	o
+X	X	m	u
+X	X	b	u
+X	X	X	u
+X	X	j	u
+X	X	p	u
+X	X	d	_
+X	X	s	_
+X	X	t	_
+X	X	m	i
+/2-3/L
+N	X	X
+n	a	X
+n	ya	X
+n	9	X
+n	o	X
+n	_	X
+n	i	X
+l	i	X
+B	n	i
+B	s	i
+s	9	X
+s	ye	X
+s	o	X
+s	yo	X
+s	i	X
+X	o	X
+/3-1a/B
+f	a	g	a
+j	a	g	a
+a	L	g	a
+a	N	g	a
+g	a	q	a
+X	a	q	a
+t	a	q	a
+g	e	q	a
+q	e	q	a
+s	a	n	a
+o	L	l	a
+d	a	l	a
+g	_	l	a
+d	_	l	a
+j	i	l	a
+g	o	m	a
+X	e	l	ye
+a	D	j	a
+_	D	j	a
+X	ye	z	a
+d	e	t	a
+d	a	l	o
+f	a	l	o
+s	a	l	o
+c	a	l	o
+k	a	l	o
+b	4e	l	o
+s	4e	l	o
+p	4e	l	o
+g	e	l	o
+j	e	l	o
+c	e	l	o
+g	o	l	o
+X	yo	l	o
+s	u	l	o
+g	i	l	o
+X	wi	l	o
+/3-1a/L
+wa	X	X
+u	N	X
+u	n	X
+u	L	X
+u	l	X
+u	M	X
+u	m	X
+u	s	X
+/3-1b/B
+e	N	g	e
+e	L	g	e
+_	L	g	e
+i	*	g	e
+b	e	g	e
+m	u	g	e
+f	_	g	e
+d	u	q	e
+n	_	q	e
+s	_	q	e
+g	i	q	e
+X	Yi	f	e	
+d	e	l	e
+s	e	l	e
+m	u	l	e
+b	u	l	e
+g	_	l	e
+q	_	l	e
+d	_	l	e
+s	_	l	e
+v	_	l	e
+j	_	l	e
+s	i	l	e
+j	i	l	e
+m	4e	s	e	
+m	u	s	e
+u	S	j	e
+i	C	j	e
+i	L	z	e
+d	u	t	e
+yu	*	h	e
+X	e	d	u
+j	e	v	u
+d	a	s	_
+f	a	s	_
+x	u	s	_
+d	_	s	_
+f	_	s	_
+z	a	g	i
+g	_	l	i
+ya	L	m	i
+a	N	m	i
+/3-1b/L
+we	X	X
+u	N	X
+u	n	X
+u	L	X
+u	l	X
+u	M	X
+u	m	X
+u	s	X
+/3-2/B
+X	X	s	wu
+/3-2/L
+we	X	X
+u	N	X
+u	n	X
+u	L	X
+u	l	X
+u	M	X
+u	m	X
+u	s	X
+/3-3a/B
+X	X	d	o
+X	X	d	a
+X	X	g	o
+/3-3a/L
+wa	X	X
+u	N	X
+u	n	X
+u	L	X
+u	l	X
+u	M	X
+u	m	X
+u	s	X
+/3-3b/B
+X	X	g	u
+X	X	j	u
+X	X	c	u
+X	X	g	i
+X	X	m	i
+X	X	n	4e
+X	X	m	4e
+X	X	g	ye
+X	X	n	u
+/3-3b/L
+we	X	X
+u	N	X
+u	n	X
+u	L	X
+u	l	X
+u	M	X
+u	m	X
+u	s	X
+/4-1/B
+g	4e	j	e
+n	4e	j	e
+X	wu	j	e
+X	e	b	u
+p	e	b	u
+m	o	b	u
+X	i	b	u
+_	M	g	_
+u	L	g	_
+n	e	g	_
+l	ye	g	_
+l	i	g	_
+X	i	g	_
+c	i	g	_
+X	g	ye	i
+/4-1/L
+a	X	X
+e	X	X
+_	X	X
+/4-2/B
+X	X	n	a
+X	X	j	a
+X	X	j	e
+X	X	b	u
+X	X	g	_
+X	X	q	_
+X	X	X	i
+X	X	j	i
+/4-2/L
+a	X	X
+e	X	X
+_	X	X
+/5-1a/B
+a	L	g	a
+ya	L	g	a
+a	D	d	a
+o	B	d	a
+k	e	d	a
+k	_	d	a
+g	i	d	a
+d	a	l	a
+p	a	l	a
+n	o	l	a
+g	_	l	a
+n	_	l	a
+X	wi	l	a
+g	a	m	a
+q	a	m	a
+d	a	m	a
+k	a	m	a
+g	_	m	a
+/5-1a/L
+N	X	X
+n	X	X	
+L	X	X	
+l	X	X
+m	X	X
+/5-2/B
+a	L	g	4e
+ya	L	g	4e
+a	D	d	4e
+o	B	d	4e
+k	e	d	4e
+k	_	d	4e
+g	i	d	4e
+d	a	l	4e
+p	a	l	4e
+n	o	l	4e
+g	_	l	4e
+n	_	l	4e
+X	wi	l	4e
+g	a	m	4e
+q	a	m	4e
+d	a	m	4e
+k	a	m	4e
+g	_	m	4e
+/5-2/L
+d	X	X	
+s	X	X	
+X	X	X
+V	X	X
+/5-1b/B
+e	L	g	e
+i	L	g	e
+X	e	f	e
+j	e	l	e
+p	e	l	e
+g	o	l	e
+j	o	l	e
+X	yo	l	e
+n	u	l	e
+m	u	l	e
+g	_	l	e
+n	_	l	e
+X	i	l	e
+X	wu	l	e
+g	e	m	e
+q	e	m	e
+k	e	m	e
+/5-1b/L
+N	X	X
+n	X	X	
+L	X	X	
+l	X	X
+m	X	X
+/5-3/B
+e	L	g	4e
+i	L	g	4e
+X	e	f	4e
+j	e	l	4e
+p	e	l	4e
+g	o	l	4e
+j	o	l	4e
+X	yo	l	4e
+n	u	l	4e
+m	u	l	4e
+g	_	l	4e
+n	_	l	4e
+X	i	l	4e
+X	wu	l	4e
+g	e	m	4e
+q	e	m	4e
+k	e	m	4e
+/5-3/L
+d	X	X	
+s	X	X	
+X	X	X
+V	X	X
+/5-1c/B
+X	b	o	ya
+X	r	o	ya
+X	h	a	ya
+/5-1c/L
+N	X	X
+n	X	X
+L	X	X
+l	X	X
+m	X	X
+/5-1d/B
+X	b	u	ye
+X	r	u	ye
+X	h	e	ye
+/5-1d/L
+N	X	X
+n	X	X
+L	X	X
+l	X	X
+m	X	X
+/5-4/B
+X	b	o	y8
+X	r	o	y8
+X	h	a	y8
+/5-4/L
+d	X	X	
+s	X	X	
+X	X	X
+V	X	X
+/5-5/B
+X	b	u	y8
+X	r	u	y8
+X	h	e	y8
+/5-5/L
+d	X	X	
+s	X	X	
+X	X	X
+V	X	X
+/5-6/B
+X	a	L	g
+X	ya	L	g
+X	a	D	d
+X	o	B	d
+X	k	e	d
+X	k	_	d
+X	g	i	d
+X	d	a	l
+X	p	a	l
+X	n	o	l
+X	g	_	l
+X	n	i	l
+X	X	wi	l
+X	g	a	m
+X	q	a	m
+X	d	a	m
+X	k	a	m
+X	g	_	m
+/5-6/L
+4e	X	X
+/5-7/B
+X	e	L	g
+X	i	L	g
+X	X	e	f
+X	j	e	l
+X	p	e	l
+X	g	o	l
+X	j	o	l
+X	X	yo	l
+X	n	u	l
+X	m	u	l
+X	g	_	l
+X	n	_	l
+X	X	i	l
+X	X	wu	l
+X	g	e	m
+X	q	e	m
+X	k	e	m
+/5-7/L
+4e	X	X
+/5-8/B
+X	X	b	o
+X	X	f	o
+X	X	h	a
+/5-8/L
+y8	X	X
+/5-9/B
+X	X	b	u
+X	X	f	u
+X	X	h	e
+/5-9/L
+y8	X	X
+/6-1/B
+n	u	l	_
+p	u	l	_
+X	i	l	_
+/6-1/L
+l	e	X
+/7-1/B
+M	f	a	L
+*	f	a	L
+a	p	a	L
+X	a	u	L
+X	e	u	L
+N	j	u	L
+J	c	u	L
+e	t	u	L
+*	g	_	L
+_	n	_	L
+a	s	_	L
+e	s	_	L
+o	s	_	L
+u	s	_	L
+_	s	_	L
+i	s	_	L
+/7-1/L
+l	a	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+/7-2/B
+X	g	a	L
+X	n	a	L
+X	d	a	L
+X	m	a	L
+X	b	a	L
+X	r	a	L
+X	s	a	L
+X	j	a	L
+X	g	o	L
+X	d	o	L
+X	m	o	L
+X	X	o	L
+X	j	o	L
+X	g	4e	L
+X	g	e	L
+X	n	e	L
+X	X	e	L
+X	g	9	L
+X	b	ye	L
+X	g	u	L
+X	n	u	L
+X	d	u	L
+X	m	u	L
+X	b	u	L
+X	q	_	L
+X	X	_	L
+X	h	_	L
+X	g	i	L
+X	X	i	L
+X	j	i	L
+X	z	i	L
+/7-2/L
+l	a	X
+l	a	X
+l	a	X
+l	a	X
+l	a	X
+l	a	X
+l	a	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+l	e	X
+/8-1/B
+X	X	h	a
+/8-1/L
+ye	X	X
+/8-2/B
+X	X	X	h
+/8-2/L
+4e	X	X
+/9-1/B
+X	X	X	p
+/9-1/L
+e	X	X
+/10-1a/B
+d	a	M	g
+j	a	M	g
+a	d	a	l
+d	a	L	p
+/10-1a/L
+a	X	X
+/10-1b/B
+n	_	*	g
+j	i	*	g
+d	_	L	l
+u	l	e	l
+X	e	ye	r
+X	i	u	r
+n	ya	L	p
+s	e	L	p
+g	_	L	p
+s	_	L	p
+/10-1b/L
+e	X	X
+/10-2a/B
+X	d	a	g
+X	q	o	n
+X	n	o	n
+X	f	a	l
+X	g	a	r
+X	n	a	r
+X	b	a	r
+X	X	m	o	
+X	X	a	p
+X	g	o	p
+/10-2a/L
+a	X	X
+/10-2b/B
+X	d	e	n
+X	m	u	n
+X	g	_	n
+X	j	i	l
+X	X	y9	r
+X	g	u	r
+X	g	i	r
+X	m	i	r
+X	s	i	r
+X	h	9	p
+X	b	u	p
+X	s	i	p
+/10-2b/L
+e	X	X
+/10-3/B
+X	X	X	q
+X	X	X	f
+X	X	X	v
+X	X	X	k
+X	X	X	t
+/10-3/L
+e	X	X
+/11-1/B
+X	m	a	d
+X	b	a	l
+X	j	a	l
+X	m	u	l
+X	a	L	l
+X	o	L	l
+/11-1/L
+a	X	X
+/11-2/B
+X	X	X	g
+X	X	X	q
+X	X	X	n
+X	X	X	f
+X	X	X	m
+X	X	X	s
+X	X	X	v
+X	X	X	j
+X	X	X	z
+X	X	X	c
+X	X	X	t
+X	X	X	p
+/11-2/L
+a	X	X
+/12-1/B
+X	e	N	n
+/12-1/L
+e	X	X
+/12-2/B
+X	X	X	s
+X	X	X	v
+/12-2/L
+e	X	X
+/13-1/B
+X	d	a	n
+X	j	i	n
+X	ye	N	d
+X	e	P	d
+X	m	a	d
+X	d	e	d
+X	m	u	d
+X	d	i	d
+X	j	e	m
+X	X	ye	m
+X	h	ye	m
+X	q	u	m
+X	s	_	m
+X	d	u	h
+/13-1/L
+ye	X	X
+/13-2/B
+X	X	X	a
+X	X	G	h
+X	X	D	h
+X	X	B	h
+X	X	J	h
+/13-2/L
+ye	X	X
+/13-3/B
+X	X	X	g
+X	X	X	l
+X	X	X	b
+X	X	X	s
+X	X	X	X
+X	X	X	q
+X	X	X	j
+X	X	X	z
+X	X	X	c
+X	X	X	k
+X	X	X	p
+/13-3/L
+ye	X	X
+/14-1/B
+X	X	b	wa
+X	X	v	wa
+X	X	X	wa
+/14-1/L
+X	X	X
+/16-1/B
+o	D	g	we
+a	L	g	we
+i	L	g	we
+a	M	g	we
+o	S	g	we
+a	*	g	we
+e	*	g	we
+9	*	g	we
+a	J	g	we
+g	a	l	we
+b	a	l	we
+g	ye	l	we
+s	_	l	we
+m	i	l	we
+X	i	l	we
+n	a	s	we
+b	a	s	we
+X	ya	s	we
+m	u	s	we
+b	u	s	we
+a	B	s	we
+X	v	a	we
+X	q	4e	we
+X	f	4e	we
+X	s	4e	we
+X	j	4e	we
+X	c	4e	we
+X	t	4e	we
+X	g	e	we
+X	g	9	we
+X	m	9	we
+X	s	9	we
+X	X	9	we
+X	g	y9	we
+X	q	i	we
+X	l	i	we
+X	b	i	we
+X	j	i	we
+X	z	i	we
+X	c	i	we
+X	k	i	we
+X	p	i	we
+X	X	yi	we
+X	o	D	we
+X	e	L	we
+X	a	*	we
+X	ye	z	we
+u	L	k	we
+d	a	t	we
+X	ye	t	we
+/16-1/L
+X	X	X
+/16-2/B
+X	X	q	we
+X	X	n	we
+X	X	d	we
+X	X	v	we
+X	X	j	we
+X	X	c	we
+/16-2/L
+X	X	X

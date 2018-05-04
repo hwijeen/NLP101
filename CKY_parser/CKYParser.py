@@ -12,6 +12,7 @@ class CKYParser():
         self.binary_grammar = binary_grammar
         self.lexicon = lexicon
         self.table = [[]]  # is this necessary?
+        self.f = open("output.txt", "w")
 
     def init_table(self, input):
         self.table = [[[] for _ in range(len(input))] for _ in range(len(input))]
@@ -22,8 +23,10 @@ class CKYParser():
             constituent = []
             for pos in self.lexicon[word]:
                 print("%s -> %s" % (pos, word))  # assignment requirement
+                self.f.write("%s -> %s\n" % (pos,word))
                 if pos in self.unary_grammar:
                     print("%s -> %s" % (self.unary_grammar[pos], pos))
+                    self.f.write("%s -> %s\n" % (self.unary_grammar[pos], pos))
                     constituent.append(self.unary_grammar[pos])
             self.table[i][i].append(Node(word, constituent))  # list containing one node
 
@@ -43,7 +46,8 @@ class CKYParser():
                         if self.grammar_check(constituent1, constituent2):
                             for merged_constituent, origin in self.binary_grammar.items():
                                 if (constituent1, constituent2) in origin:
-                                    print("%s -> %s %s" % (merged_constituent, constituent1, constituent2))  # requirement
+                                    print("%s -> %s %s" % (merged_constituent, constituent1, constituent2)) # requirement
+                                    self.f.write("%s -> %s %s\n" % (merged_constituent, constituent1, constituent2))  # requirement
                                     merged.append(Node(word, merged_constituent, (node1, node2), (ix1, ix2)))
         return merged
 
@@ -67,6 +71,7 @@ class CKYParser():
         for head in possible_heads:
             visited, output = self.dfs(self.table, head, [], "", 0)
             print(output)
+            self.f.write("\n%s\n" % output)
 
     def parse(self, input):
         input = input.split(" ")  # unit: eojeol

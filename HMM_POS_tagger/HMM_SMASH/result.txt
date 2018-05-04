@@ -1,0 +1,86 @@
+¾È³çÇÏ¼¼¿ä
+ 1. ¾È³ç/NNG+ÇÏ/NNG+¼¼/NNB+¿ä/EC
+
+ 2. ¾È³ç/NNG+ÇÏ/MAG+¼¼/NNB+¿ä/EC
+
+ 3. ¾È³ç/IC+ÇÏ/MAG+¼¼/NNB+¿ä/EC
+
+ 4. ¾È³ç/NNG+ÇÏ/NNP+¼¼/NNB+¿ä/EC
+
+ 5. ¾È³ç/NNG+ÇÏ/NNG+¼¼/NNG+¿ä/EC
+
+ 6. ¾È³ç/NNG+ÇÏ/MAG+¼¼/NNG+¿ä/EC
+
+ 7. ¾È³ç/IC+ÇÏ/MAG+¼¼/NNG+¿ä/EC
+
+ 8. ¾È³ç/NNG+ÇÏ/NNP+¼¼/NNG+¿ä/EC
+
+ 9. ¾È³ç/NNG+ÇÏ/NNG+¼¼/VA+¿ä/EC
+
+10. ¾È³ç/NNG+ÇÏ/MAG+¼¼/VA+¿ä/EC
+
+11. ¾È³ç/IC+ÇÏ/MAG+¼¼/VA+¿ä/EC
+
+12. ¾È³ç/NNG+ÇÏ/VV+¼¼/VV+¿ä/EC
+
+13. ¾È³ç/IC+ÇÏ/VV+¼¼/VV+¿ä/EC
+
+14. ¾È³ç/NNG+ÇÏ/NNG+¼¼/VV+¿ä/EC
+
+15. ¾È³ç/NNG+ÇÏ/MAG+¼¼/VV+¿ä/EC
+
+16. ¾È³ç/IC+ÇÏ/MAG+¼¼/VV+¿ä/EC
+
+17. ¾È³ç/IC+ÇÏ/IC+¼¼/VV+¿ä/EC
+
+18. ¾È³ç/NNG+ÇÏ/XSV+¼¼/EC+¿ä/EC
+
+19. ¾È³ç/NNG+ÇÏ/XSA+¼¼/EC+¿ä/EC
+
+20. ¾È³ç/NNG+ÇÏ/VV+¼¼/EC+¿ä/EC
+
+21. ¾È³ç/IC+ÇÏ/VV+¼¼/EC+¿ä/EC
+
+22. ¾È³ç/NNG+ÇÏ/NNG+¼¼/EC+¿ä/EC
+
+23. ¾È³ç/NNG+ÇÏ/MAG+¼¼/MM+¿ä/JX
+
+24. ¾È³ç/IC+ÇÏ/MAG+¼¼/MM+¿ä/JX
+
+25. ¾È³ç/NNG+ÇÏ/NNP+¼¼/MM+¿ä/JX
+
+26. ¾È³ç/NNG+ÇÏ/XSV+¼¼/EC+¿ä/JX
+
+27. ¾È³ç/NNG+ÇÏ/XSA+¼¼/EC+¿ä/JX
+
+28. ¾È³ç/NNG+ÇÏ/VV+¼¼/EC+¿ä/JX
+
+29. ¾È³ç/IC+ÇÏ/VV+¼¼/EC+¿ä/JX
+
+30. ¾È³ç/NNG+ÇÏ/NNG+¼¼/EC+¿ä/JX
+
+31. ¾È³ç/NNG+ÇÏ/XSV+¼¼/EF+¿ä/JX
+
+32. ¾È³ç/NNG+ÇÏ/XSA+¼¼/EF+¿ä/JX
+
+
+
+¹ä
+ 1. ¹ä/NNG
+
+ 2. ¹ä/NNP
+
+¸Ô¾ú´Ï?
+ 1. ¸Ô/VV+¾ú/EP+´Ï/EF+?/SF
+
+ 2. ¸Ô/VX+¾ú/EP+´Ï/EF+?/SF
+
+ 3. ¸Ô/VV+¾ú/EP+´Ï/NNG+?/SF
+
+ 4. ¸Ô/VX+¾ú/EP+´Ï/NNG+?/SF
+
+ 5. ¸Ô/VV+¾î/EC+¤¶/EP+´Ï/EF+?/SF
+
+ 6. ¸Ô/VX+¾î/EC+¤¶/EP+´Ï/EF+?/SF
+
+
